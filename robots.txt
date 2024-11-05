@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ulosaopi.github.io/Ggh/sitemap_index.txt
+Sitemap: https://ulosaopi.github.io/OBv/sitemap_index.txt
+Sitemap: https://ulosaopi.github.io/YCo/sitemap_index.txt
+Sitemap: https://ulosaopi.github.io/osC/sitemap_index.txt
